@@ -2,18 +2,18 @@
 ## Skills
 ### Frontend
 - [ ]   tailwind
-- [ ]   Reactjs
-- [ ]   RTK
-- [ ]   React query
+- [x]   Reactjs
+- [x]   RTK
+- [x]   React query
 - [ ]   WASM
 ### Backend
-- [ ]   Nodejs
+- [x]   Nodejs
 - [ ]   GraphQL
 - [ ]   MongoDB on Atlas
 - [ ]   AWS - SES
 - [ ]   AWS - S3
 - [ ]   redis
-- [ ]   Docker, Docker compose
+- [x]   Docker, Docker compose
 ### Infra
 - [ ]   AWS - cloudfront cdn
 - [ ]   AWS - lamda for backend API Server \`GraphQL`\
